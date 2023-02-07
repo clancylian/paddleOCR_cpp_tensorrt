@@ -44,3 +44,6 @@ The rec_batch_num should be $\leq$ 8. If you want bigger batch size, please modi
 --det=true --cls=false --rec=true 
 --image_dir="../testImgs/11.jpg" --output="./output/"
 ```
+
+中文词典文件：
+https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/ppocr/utils/ppocr_keys_v1.txt
